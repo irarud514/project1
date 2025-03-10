@@ -9,7 +9,7 @@ import javax.imageio.ImageIO;
 import javax.swing.*;
 
 public class ImageMover1 extends JFrame {
-    public String folder = "C:/Users/Irina/ujqlf/images/";
+    public String folder = "images/";
     private BackgroundPanel backgroundPanel;
     private int level;
     private int type;
