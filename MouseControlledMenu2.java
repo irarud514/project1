@@ -8,7 +8,7 @@ import javax.imageio.ImageIO;
 import javax.swing.*;
 
 public class MouseControlledMenu2 extends JFrame {
-    public String folder="/images/";
+    public String folder="images/";
     private JButton startGameButton;
     private JButton chooseGameButton;
     private JButton settingsButton;
